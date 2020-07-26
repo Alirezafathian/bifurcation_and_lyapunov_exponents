@@ -1,6 +1,3 @@
-## The Bifurcation Diagram and Lyapunov Exponents
-
-
 ![alt text](https://github.com/Alirezafathian/bifurcation_and_lyapunov-_exponents/blob/master/figures/header.png)
 
 
